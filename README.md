@@ -36,7 +36,7 @@ Check this schematic if you want to build the light gun yourself:<br>
 Check this SteamInput config to quickly set up the adapter on steam:<br>
 <a href=SteamInputConfig.txt>SteamInputConfig.txt</a><br>
 
-# Links
+# Usefull links
 Original idea that ended up becoming this project: https://github.com/r57zone/Zapper-Light-Gun-PC<br>
 related, uses an arduino board and has snes support: https://github.com/mooware/arduino-nes-snes-usb<br>
 <br>
