@@ -32,7 +32,7 @@ and you are ready, enjoy your adapter<br>
 
 # Extras
 Check this schematic if you want to build the light gun yourself:<br>
-<a href=MyLighGunSchematic.png>MyLighGunSchematic.png</a><br>
+<a href=MyLightGunSchematic.png>MyLightGunSchematic.png</a><br>
 Check this SteamInput config to quickly set up the adapter on steam:<br>
 <a href=SteamInputConfig.txt>SteamInputConfig.txt</a><br>
 
