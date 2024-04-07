@@ -1,4 +1,4 @@
-# NES gamepad controller and Zapper Light gun usb adapter
+# NES gamepad controller and Zapper Light Gun usb adapter
 Digispark ATtiny85 based NES gamepad controller and Zapper Light gun to usb adapter
 
 When powered on the code checks if a controller or a light gun is connected, if you switch which is connected you need to power off and on again the board, when using a controller you can press select+a or select+b to use 2 extra inputs, the ligh gun works best when setting your screen brightness high, or/and low ambient light<br>
