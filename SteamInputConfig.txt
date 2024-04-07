@@ -1,0 +1,1 @@
+0300bfcdc0160000dc27000000000000,DigiKey,crc:cdbf,platform:Windows,a:b0,b:b1,x:b2,y:b3,dpleft:b14,dpright:b15,dpup:b12,dpdown:b13,back:b8,start:b9,steam:1,
